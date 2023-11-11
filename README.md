@@ -6,7 +6,7 @@ Skilled Java/J2EE Developer with proven experience in creating user-friendly and
 
 🔭 Skills: JAVA / Spring framework / RESTful Microservices / SQL / Git / Maven / Docker / Terraform / AWS
 - 🌱 I’m currently learning: <b>Kotlin<b/>
-- 📫 How to reach me: +1 312 678 4196 
+- 📫 How to reach me: www.linkedin.com/in/esayas-gebreegziabher or email me esayasgebree@gmail.com  
 
 
 
