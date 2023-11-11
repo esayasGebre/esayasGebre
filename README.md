@@ -5,7 +5,7 @@
 Skilled Java/J2EE Developer with proven experience in creating user-friendly and complex business applications. Excellent experience in backend development, as well as proven expertise in Oracle and MySQL databases. Proficient in all phases of the software development lifecycle. Experienced with Java technologies wiht strong collaborative, interpersonal, and communication abilities.
 
 🔭 Skills: JAVA / Spring framework / RESTful Microservices / SQL / Git / Maven / Docker / Terraform / AWS
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning: <b>Kotlin<b/>
 - 📫 How to reach me: +1 3126784196 
 
 
